@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chetan Shetter
 - 👀 I’m interested in tyring to figure out.
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on nothing Right now.
+- 💞️ I’m looking to collaborate on any React Projects.
 - 📫 How to reach me i'm unreachable.
 
 <!---
