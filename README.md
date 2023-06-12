@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChetanS07
+- 👋 Hi, I’m Chetan Shetter
 - 👀 I’m interested in tyring to figure out.
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on nothing Right now.
