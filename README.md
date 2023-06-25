@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chetan Shetter
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on any React Projects.
 
 ## My Online Hosted Projects
 
