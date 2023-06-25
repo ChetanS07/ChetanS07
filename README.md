@@ -5,7 +5,7 @@
 
 ## My Online Hosted Projects
 
-calculator App&nbsp: https://chetansprojectscalculator.netlify.app/  
+calculator App &nbsp: https://chetansprojectscalculator.netlify.app/  
 Weather App: https://chetansprojectsweather.netlify.app/  
 TicTacToe App: https://chetansprojectstictactoe.netlify.app/  
 ToDo List App: https://todo-app-zwow.onrender.com  
