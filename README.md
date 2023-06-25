@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on any React Projects.
 
-## My Projects
+## My Online Hosted Projects
 
 calculator App : https://chetansprojectscalculator.netlify.app/  
 Weather App : https://chetansprojectsweather.netlify.app/  
