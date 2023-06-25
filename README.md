@@ -5,11 +5,11 @@
 
 ## My Online Hosted Projects
 
-calculator App'                   ': https://chetansprojectscalculator.netlify.app/  
-Weather App`                      `: https://chetansprojectsweather.netlify.app/  
-TicTacToe App`                    `: https://chetansprojectstictactoe.netlify.app/  
-ToDo List App`                    `: https://todo-app-zwow.onrender.com  
-Hospital Appointment Booking App` `: https://chetansprojectshospitalappbooking.netlify.app/  
+calculator App&nbsp: https://chetansprojectscalculator.netlify.app/  
+Weather App: https://chetansprojectsweather.netlify.app/  
+TicTacToe App: https://chetansprojectstictactoe.netlify.app/  
+ToDo List App: https://todo-app-zwow.onrender.com  
+Hospital Appointment Booking App: https://chetansprojectshospitalappbooking.netlify.app/  
 
 <!---
 ChetanS07/ChetanS07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
