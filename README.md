@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chetan Shetter
+- 👋 Hi, I’m Chennabasappa Shetter
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Computer Science.
 
